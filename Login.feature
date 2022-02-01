@@ -2,8 +2,6 @@
 
 Funcionalidade: Login
 
-Realizar autenticação do usuário na Amazon, utilizando um e-mail ou número de telefone celular e uma senha válida de pelo menos 6 caracteres
-
 Eu como usuário da Amazon.com
 Quero ter acesso a plataforma
 Para gerenciar a minha conta
